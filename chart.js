@@ -16,6 +16,7 @@ function plotAsset() {
     console.log(chart.plot(assets, {
         height: 30
     }))
+
 }
 
 function main() {
